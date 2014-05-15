@@ -1,15 +1,15 @@
 {
     "sampleData": {
-        "title": "sampletile-table tile-table",
+        "title": "christian-tile-table tile-table",
         "contents": [
             {
                 "name": "Value",
                 "value": "Initial data"
             }
         ]},
-    "displayName" : "sampletile-table",
+    "displayName" : "Christian's Tile",
     "name" : "sampletile-table",
-    "description" : "sampletile-table",
+    "description" : "Christian's first tile",
     "style": "TABLE",
     "icons": {
         "16": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
