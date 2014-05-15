@@ -1,0 +1,48 @@
+{
+    "integrationUser": {
+        "systemAdmin": false
+    },
+    "tiles": [
+        {
+            "sampleData": {
+                "title": "sampletile-table tile-table",
+                "contents": [
+                    {
+                        "name": "Value",
+                        "value": "Initial data"
+                    }
+                ]
+            },
+            "displayName": "sampletile-table",
+            "name": "sampletile-table",
+            "description": "sampletile-table",
+            "style": "TABLE",
+            "icons": {
+                "16": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+                "48": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png",
+                "128": "https://community.jivesoftware.com/servlet/JiveServlet/showImage/102-99994-1-1023036/j.png"
+            },
+            "action": "http://stone.center-tag.net/sampletile-table/action",
+            "id": "a855803d-d0fd-4177-a576-2446720d9669",
+            "definitionDirName": "sampletile-table",
+            "published": "2013-02-28T15:12:16.768-0800",
+            "updated": "2013-02-28T15:12:16.768-0800",
+            "config": "http://stone.center-tag.net/sampletile-table/configure",
+            "unregister": "http://stone.center-tag.net/unregister",
+            "register": "http://stone.center-tag.net/registration"
+        }
+    ],
+    "templates": [
+        {
+            "name": "defaultTemplate",
+            "displayName": "Contains: [sampletile-table] ",
+            "description": "Extension UUID aa17e800-412e-4a06-b16f-4c914e4fbbd3 Contains: [sampletile-table] ",
+            "tiles": [
+                "sampletile-table"
+            ]
+        }
+    ],
+    "osapps": [],
+    "storageDefinitions": [],
+    "jabCartridges": []
+}

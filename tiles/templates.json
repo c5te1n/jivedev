@@ -1,0 +1,10 @@
+{
+    "default": {
+        "name": "defaultTemplate",
+        "displayName": "Contains: [sampletile-table] ",
+        "description": "Extension UUID aa17e800-412e-4a06-b16f-4c914e4fbbd3 Contains: [sampletile-table] ",
+        "tiles": [
+            "sampletile-table"
+        ]
+    }
+}

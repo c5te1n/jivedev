@@ -1,0 +1,7 @@
+{
+    "clientUrl": "http://stone.center-tag.net",
+    "port": "80",
+    "development": true,
+    "ignoreExtensionRegistrationSource": true,
+    "logLevel":"DEBUG"
+}
